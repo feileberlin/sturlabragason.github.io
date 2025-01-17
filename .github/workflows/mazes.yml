@@ -4,6 +4,7 @@ name: Maze Generator
 on:
 
   # Runs every month
+  workflow_dispatch:
   schedule:
     - cron:  '0 0 1 * *'
 
