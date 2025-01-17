@@ -1,6 +1,11 @@
 [
-    "https://www.dr.dk/nyheder/service/feeds/indland",
-    "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
-    "https://hnrss.org/newest?q=git+OR+linux+OR+terraform+OR+opensource",
-    "http://feeds.reuters.com/Reuters/worldNews"
+    "https://www.frankenpost.de/region/hof.rss2.feed",
+    "https://www.bezirk-oberfranken.de/rssbz.xml",
+    "https://www.deutschlandfunkkultur.de/film-serie-100.rss",
+    "https://wettwarn.de/rss/hox.rss",
+    "https://www.br.de/franken/franken100~rss.xml",
+    "https://www.infranken.de/storage/rss/rss/2.0/hof.xml",
+    "https://www.polizei.bayern.de/rss/polizeiprasidium-oberfranken.xml",
+    "https://extra-radio.de/feed/",
+    "https://www.tvo.de/kategorie/nachrichten/stadt-und-land-hof/feed/"
 ]
